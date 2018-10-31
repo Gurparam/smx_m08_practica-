@@ -1,3 +1,3 @@
 # smx_m08_practica
 
-Primer respository de practicas de github en M08
+Primer respositorio de practicas de github en M08
